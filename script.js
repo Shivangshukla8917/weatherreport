@@ -13,7 +13,7 @@ visibilityVal = document.getElementById('visibilityVal'),
 windSpeedVal = document.getElementById('windSpeedVal'),
 feelsVal = document.getElementById('feelsVal'),
 hourlyForecastCard = document.querySelector('.hourly-forecast'),
-aqiList = ['good' , 'fair', 'moderate', 'poor', 'very poor'];
+aqiList = ['Good' , 'Fair', 'Moderate', 'Poor', 'Very Poor'];
 
 
 
